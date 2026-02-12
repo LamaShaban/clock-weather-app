@@ -1,10 +1,10 @@
-#🌍 World Clock & Weather App
+# 🌍 World Clock & Weather App
 
 A modern React application that displays real-time clock and live weather information for any country, This project combines time zone handling and weather API integration with a clean glassmorphism UI design.
 
 ---
 
-##✨ Features
+## ✨ Features
 
 -🔎 Search any country
 -🕒 Real-time local clock based on timezone
@@ -19,7 +19,7 @@ A modern React application that displays real-time clock and live weather inform
 
 ---
 
-##🛠️ Built With
+## 🛠️ Built With
 
 -⚛️ React.js
 -🌐 OpenWeather API
@@ -28,15 +28,15 @@ A modern React application that displays real-time clock and live weather inform
 -✨ Animate.css
 
 ---
-##📸 Screenshots
-###☀️ Clear Sky Example
+## 📸 Screenshots
+### ☀️ Clear Sky Example
 ![clear weather screenshot](./screenshot/clear.png)
-###❄️ Snow Example
+### ❄️ Snow Example
 ![snowing weather screenshot](./screenshot/snow.png)
 
 ---
 
-##🌐 How It Works
+## 🌐 How It Works
 User searches for a country.
 The app fetches: Timezone data and Weather data.
 The UI updates dynamically.
@@ -45,7 +45,7 @@ Clock updates every second in real-time.
 
 ---
 
-##💡 What I Learned
+## 💡 What I Learned
 -Handling async API calls in React
 -Managing state updates correctly
 -Working with timezones
