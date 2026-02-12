@@ -22,11 +22,11 @@ A modern React application that displays real-time clock and live weather inform
 
 ## 🛠️ Built With
 
--⚛️ React.js
--🌐 OpenWeather API
--⏰ Timezone API
--🎨 CSS3 (Glassmorphism design)
--✨ Animate.css
+- ⚛️ React.js
+- 🌐 OpenWeather API
+- ⏰ Timezone API
+- 🎨 CSS3 (Glassmorphism design)
+- ✨ Animate.css
 
 ---
 ## 📸 Screenshots
@@ -38,18 +38,18 @@ A modern React application that displays real-time clock and live weather inform
 ---
 
 ## 🌐 How It Works
-User searches for a country.
-The app fetches: Timezone data and Weather data.
-The UI updates dynamically.
-Weather icons fade smoothly on change.
-Clock updates every second in real-time.
+- User searches for a country.
+- The app fetches: Timezone data and Weather data.
+- The UI updates dynamically.
+- Weather icons fade smoothly on change.
+- Clock updates every second in real-time.
 
 ---
 
 ## 💡 What I Learned
--Handling async API calls in React
--Managing state updates correctly
--Working with timezones
--Improving UI/UX with animation
--Designing glassmorphism layouts
--Building responsive components
+- Handling async API calls in React
+- Managing state updates correctly
+- Working with timezones
+- Improving UI/UX with animation
+- Designing glassmorphism layouts
+- Building responsive components
