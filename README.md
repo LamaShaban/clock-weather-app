@@ -2,20 +2,21 @@
 
 A modern React application that displays real-time clock and live weather information for any country, This project combines time zone handling and weather API integration with a clean glassmorphism UI design.
 
+
 ---
 
 ## ✨ Features
 
--🔎 Search any country
--🕒 Real-time local clock based on timezone
--🌤️ Live weather conditions
--🌡️ Temperature + "Feels Like"
--💧 Humidity
--🌬️ Wind speed
--🌡️ Atmospheric pressure
--🎨 Smooth weather icon transitions (fade animation)
--🧊 Modern glassmorphism UI
--📱 Fully responsive design
+- 🔎 Search any country
+- 🕒 Real-time local clock based on timezone
+- 🌤️ Live weather conditions
+- 🌡️ Temperature + "Feels Like"
+- 💧 Humidity
+- 🌬️ Wind speed
+- 🌡️ Atmospheric pressure
+- 🎨 Smooth weather icon transitions (fade animation)
+- 🧊 Modern glassmorphism UI
+- 📱 Fully responsive design
 
 ---
 
